@@ -27,19 +27,12 @@ This is a lightweight, open-source utility written in Python that safely enables
 
 ---
 
-## 📥 Download
+### 🚀 Download the latest version
 
-Download the latest executable from the **Releases** section.
+👉 https://github.com/methimi/Windows-11-Right-Click-Menu-Old/releases
 
-Run:
+No installation required.
 
-```
-ClassicContextMenu.exe
-```
-
-No installation is required.
-
----
 
 ## 🛠 How It Works
 
