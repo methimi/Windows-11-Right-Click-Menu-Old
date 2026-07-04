@@ -21,19 +21,9 @@ This is a lightweight, open-source utility written in Python that safely enables
 
 ## 📸 Screenshots
 
-## Before
-
-![Before](screenshots/before.png)
-
-## After
-
-![After](screenshots/after.png)
-
-```
-screenshots/
-├── before.png
-└── after.png
-```
+| Before | After |
+|--------|-------|
+| ![](screenshots/before.png) | ![](screenshots/after.png) |
 
 ---
 
