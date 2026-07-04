@@ -110,7 +110,7 @@ Although it only modifies a single user registry key, you use this software at y
 The executable has been scanned with VirusTotal.
 
 **VirusTotal Report:**
-https://www.virustotal.com/...
+https://www.virustotal.com/gui/file/1d4ae1c2536813c86c000a0bf25697017770ba2a881480af99fa24762eac8ab4?nocache=1
 
 You can also build the application yourself from the source code.
 
