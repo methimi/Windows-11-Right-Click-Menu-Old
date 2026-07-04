@@ -21,7 +21,13 @@ This is a lightweight, open-source utility written in Python that safely enables
 
 ## 📸 Screenshots
 
-> Add screenshots here.
+## Before
+
+![Before](screenshots/before.png)
+
+## After
+
+![After](screenshots/after.png)
 
 ```
 screenshots/
