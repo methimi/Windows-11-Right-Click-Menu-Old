@@ -62,36 +62,6 @@ No system files are changed.
 
 ---
 
-## 💻 Building from Source
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/windows11-classic-context-menu.git
-cd windows11-classic-context-menu
-```
-
-Run with Python:
-
-```bash
-python main.py
-```
-
-Build the executable:
-
-```bash
-pip install pyinstaller
-pyinstaller --onefile --uac-admin main.py
-```
-
-The compiled executable will be located in:
-
-```
-dist/
-```
-
----
-
 ## 🔒 Safety
 
 This application:
@@ -141,5 +111,15 @@ This software is provided **as is**, without warranty of any kind.
 Although it only modifies a single user registry key, you use this software at your own risk.
 
 ---
+
+## 🔒 Security
+
+The executable has been scanned with VirusTotal.
+
+**VirusTotal Report:**
+https://www.virustotal.com/...
+
+You can also build the application yourself from the source code.
+
 
 Made with ❤️ for the Windows community.
