@@ -6,6 +6,16 @@ This is a lightweight, open-source utility written in Python that safely enables
 
 ---
 
+### 🚀 Download the latest version
+
+👉 https://github.com/methimi/Windows-11-Right-Click-Menu-Old/releases
+
+👉 **[Windows 11 Right-Click Menu Fix.zip](https://github.com/methimi/Windows-11-Right-Click-Menu-Old/releases/download/Windows-11-Right-Click-Menu-Fix/Windows.11.Right-Click.Menu.Fix.zip)**
+
+No installation required.
+
+---
+
 ## ✨ Features
 
 * ✅ Enable the classic Windows 10 context menu
@@ -26,13 +36,6 @@ This is a lightweight, open-source utility written in Python that safely enables
 | ![](screenshots/before.png) | ![](screenshots/after.png) |
 
 ---
-
-### 🚀 Download the latest version
-
-👉 https://github.com/methimi/Windows-11-Right-Click-Menu-Old/releases
-
-No installation required.
-
 
 ## 🛠 How It Works
 
